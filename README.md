@@ -46,6 +46,7 @@ Sources live on your machine. Indexing is local. LLM generation can be local via
 3) A query retrieves top matching chunks for the selected mode  
 4) If confidence is strong, an LLM generates an answer using only those retrieved chunks  
 5) The response includes the answer, citations, and optional debug scores  
+<img width="1467" height="880" alt="image" src="https://github.com/user-attachments/assets/030f7ce5-9836-4238-9e0a-985dab6663f2" />
 
 ---
 
